@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @citifroup
-- 👀 I’m interested in android apps and crypto
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on android apps
+- 👀 I’m interested in crypto, PyTorch and ML in general.
+- 🌱 I’m currently learning PyTorch
+- 💞️ I’m looking to collaborate on interesting ML/AI/Crypto projects.
 - 📫 How to reach me ...
 
 <!---
